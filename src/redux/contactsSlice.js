@@ -18,3 +18,4 @@ export const selectContacts = state => state.contacts.items;
 export default slice.reducer;
 
 console.log(slice);
+
